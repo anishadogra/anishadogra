@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FE2E2E&center=true&vCenter=true&width=800&lines=Anisha+Dogra;Co-founder%2C+RAAY+Creative;I+sign+off+the+taste;A+rule+without+an+incident+is+a+preference" alt="Anisha Dogra" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3000&pause=1000&color=FE2E2E&center=true&vCenter=true&width=900&lines=Anisha+Dogra;Co-founder%2C+RAAY+Creative;Brand+systems%2C+content+pipelines%2C+creative+direction;Delhi%2C+India" alt="Anisha Dogra" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=anishadogra&label=Profile%20Views&color=FE2E2E&style=flat" alt="Profile views" />

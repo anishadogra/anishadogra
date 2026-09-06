@@ -1,4 +1,26 @@
-# Anisha Dogra
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FE2E2E&center=true&vCenter=true&width=800&lines=Anisha+Dogra;Co-founder%2C+RAAY+Creative;I+sign+off+the+taste;A+rule+without+an+incident+is+a+preference" alt="Anisha Dogra" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anishadogra&label=Profile%20Views&color=FE2E2E&style=flat" alt="Profile views" />
+  </p>
+
+  <p>
+    <a href="https://github.com/anishadogra"><img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/anisha-dogra-5658941b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/raaycreativebts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://api.whatsapp.com/send/?phone=918133888744&text=Hi+Raay+Creative+%E2%80%94+I+would+like+to+talk+about+a+project.&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  </p>
+
+  <p>
+    <strong>RAAY Creative is open for work: brand systems, content pipelines, creative direction.</strong><br/>
+    Want creative volume you can actually put a client's name on? Let's talk.
+  </p>
+
+</div>
+
+---
 
 **Co-founder, [RAAY Creative](https://raaycreative.com)** — an AI-led marketing and creative studio in India.
 A two-person studio: one builds the pipeline, one signs off the taste. I sign off the taste.

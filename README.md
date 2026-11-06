@@ -108,9 +108,23 @@ A generative pipeline will produce a month of brand work in an afternoon, and mo
       <p><code>Reproducible research</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/anishadogra/senior-video-editing-system">senior-video-editing-system</a></h3>
+      <p>Five agents that run a short-form video job from brief to delivery. The agents advise and only the main thread acts, and a learning ledger is read before every job so Monday's correction is still there on Thursday.</p>
+      <p><a href="https://github.com/anishadogra/senior-video-editing-system"><img src="https://img.shields.io/badge/Code-141414?style=flat-square&logo=github&logoColor=white" /></a></p>
+      <p><code>Multi-agent</code> <code>Learning ledger</code></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/anishadogra/short-prompt">short-prompt</a></h3>
+      <p>A short prompt is not a vague prompt. It is one that trusts the listener to remember. Twenty dictated words become a full brief from a personal word list and saved defaults, with at most one question.</p>
+      <p><a href="https://github.com/anishadogra/short-prompt"><img src="https://img.shields.io/badge/Code-141414?style=flat-square&logo=github&logoColor=white" /></a></p>
+      <p><code>Agent skill</code> <code>Voice-first</code></p>
+    </td>
+  </tr>
 </table>
 
-Also published: [measurement-honesty](https://github.com/anishadogra/measurement-honesty) · [plain-language-brief](https://github.com/anishadogra/plain-language-brief) · [studio-portfolio-clearance](https://github.com/anishadogra/studio-portfolio-clearance)
+Also published: [client-design-system](https://github.com/anishadogra/client-design-system) · [reference-video-teardown](https://github.com/anishadogra/reference-video-teardown) · [mac-browser-operator](https://github.com/anishadogra/mac-browser-operator) · [video-recut-discipline](https://github.com/anishadogra/video-recut-discipline) · [meta-ads-review](https://github.com/anishadogra/meta-ads-review) · [measurement-honesty](https://github.com/anishadogra/measurement-honesty) · [plain-language-brief](https://github.com/anishadogra/plain-language-brief) · [studio-portfolio-clearance](https://github.com/anishadogra/studio-portfolio-clearance)
 
 ---
 
